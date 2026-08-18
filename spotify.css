@@ -151,7 +151,8 @@ button:hover{
 .sec1{
 	background-color : #121212;
 	margin-top : 2%;
-	width : 30%;
+	width : 25%;
+	height : 450px;
 	border : 1px solid #121212;
 	font-family: "Bebas Neue", sans-serif;
 	margin-left : 1%;
@@ -174,7 +175,6 @@ button:hover{
 }
 
 .b1{
-	margin-left :4%;
 	margin-top : 2.5%;	
 }
 
@@ -182,12 +182,13 @@ button:hover{
 	
 	background-color : #292929;
 	padding : 2%;
-	margin-left : 30%;
+	margin-left : 26%;
 	color : #7C7C7C;
 	border-radius : 15px;
 	font-weight : bold;
 	margin-top : 1.5%;
-	width : 20%;
+	width : 25%;
+	font-family: "Bebas Neue", sans-serif;
 }
 .icon5{
 	padding : 2%;
@@ -206,8 +207,7 @@ button:hover{
 .div6{
 	
 	background-color : #292929;
-	width : 18%;
-	margin-left : 4%;
+	width : 25%;
 	text-align : center;
 	padding : 1.5%;
 	margin-top : 4%;
@@ -257,12 +257,58 @@ button:hover{
 	width : 10%;
 	padding : 2%;
 	height: 30px;
-	margin-top : 6%;
+	margin-top : 1%;
 	text-align:center;
-	margin-left : 4%;	
+	margin-left : 1%;	
+	border-radius : 6px
 }
 
 .icon7{
-	font-size : 30px;
-	color : #B3B3B3
+	font-size : 28px;
+	color : #B3B3B3;
 }
+
+.div9{
+	
+	vertical-align : top;
+	margin-left : 3%;
+	margin-top : 2%;
+	
+}
+.s1{
+	margin-top : 6%;
+	font-size : 14px;
+	color : #B3B3B3;
+	
+}
+.mdiv{
+	
+	width : 100%;
+	padding : 1%;
+	border-radius : 10px;
+	margin-top : 1%;
+}
+
+.icon8{
+	color : white;
+	display :none;
+	position : absolute;
+	font-size : 24px;
+	margin-left : 0.6%;
+}
+
+.mdiv:hover{
+	background-color : #1F1F1F;
+	
+}
+
+.mdiv:hover .div8{
+	background-color : black;
+	
+}
+
+
+.mdiv:hover .icon8{
+	display : block;	
+}
+
