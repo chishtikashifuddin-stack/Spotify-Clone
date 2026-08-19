@@ -151,9 +151,9 @@ button:hover{
 
 .sec1{
 	background-color : #121212;
-	margin-top : 2%;
+	margin-top : 0.5%;
 	height : 470px;
-	width : 25%;
+	width : 20%;
 	border : 1px solid #121212;
 	font-family: "Bebas Neue", sans-serif;
 	margin-left : 1%;
@@ -169,13 +169,13 @@ button:hover{
 .icon4{
 	
 	background-color : #292929;
-	padding : 2%;
-	margin-left : 26%;
+	padding : 3%;
+	margin-left : 8%;
 	color : #7C7C7C;
 	border-radius : 15px;
 	font-weight : bold;
 	margin-top : 1.5%;
-	width : 25%;
+	width : 30%;
 	font-family: "Bebas Neue", sans-serif;
 }
 .icon5{
@@ -197,8 +197,8 @@ button:hover{
 	background-color : #292929;
 	width : 25%;
 	text-align : center;
-	padding : 1.5%;
-	margin-top : 4%;
+	padding : 3%;
+	margin-top : 6%;
 	border-radius : 15px
 }
 
@@ -216,7 +216,6 @@ button:hover{
 	
 	color : white;
 	margin-left : 5%;
-	
 }
 
 .icon6:hover{
@@ -227,7 +226,7 @@ button:hover{
 
 .div7{
 	
-	margin-left : 60%;
+	margin-left : 50%;
 	color : #B3B3B3;
 	
 	
@@ -274,7 +273,7 @@ button:hover{
 	width : 100%;
 	padding : 1%;
 	border-radius : 10px;
-	margin-top : 1%;
+	margin-top : 5%;
 }
 
 .icon8{
@@ -307,8 +306,8 @@ button:hover{
 	overflow : scroll;
 	overflow-x : hidden;
 	background-color : #121212;
-	margin-top : 2%;
-	width : 65%;
+	margin-top : 0.5%;
+	width : 75%;
 	border : 1px solid #041818;
 	height : 50px;
 	margin-left : 1%;
@@ -357,7 +356,6 @@ button:hover{
 	padding : 2%;
 	width : 100%;
 	border-radius : 10px;
-	background-color : black;
 }
 
 .div15{
@@ -445,10 +443,73 @@ button:hover{
 	margin-top : 2%;
 	width : 320px;
 }
+.div19{
+	color :white;	
+	margin-top : 4%;
+	width : 380px;
+	overflow-x : auto;
+	scrollbar-width:none;
+	white-space:nowrap;
+	margin-left : 1%;
+	padding : 1%;
+}
 .b7{
 	
 	color :#A6B3B3;	
 	font-size : 14px;
 	margin-left : 5%;
+}
+
+
+.fig1:hover{
 	
+	background-color : #2A2A2A;
+}
+
+.fig1{
+	padding:3%;
+	margin:1%;
+	border-radius : 10px;
+}
+
+.icon11{
+	
+	position : absolute;
+	margin-top: 6%;
+	margin-left : 6.5%;
+	font-size : 40px;
+	color :#3BE477;
+	display : none;
+}
+
+.icon12{
+	
+	position : absolute;
+	margin-top: 6%;
+	margin-left : %;
+	font-size : 40px;
+	color :#3BE477;
+	display : none;
+}
+
+.icon13{
+	
+	position : absolute;
+	margin-top: 6%;
+	font-size : 40px;
+	color :#3BE477;
+	display : none;
+}
+
+.icon14{
+	
+	position : absolute;
+	margin-top: 6%;
+	font-size : 40px;
+	color :#3BE477;
+	display : none;
+}
+
+.fig1:hover .icon11,.fig1:hover .icon12{
+	display : block;
 }
