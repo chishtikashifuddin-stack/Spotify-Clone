@@ -12,9 +12,9 @@ body{
 .icon1{
 	
 	color : white;
-	font-size : 40px;
-	margin-top : 1%;
+	font-size : 50px;
 	margin-left : 2%;	
+	vertical-align : top;
 }
 
 .div1{
@@ -25,7 +25,7 @@ body{
 	text-align : center;
 	border-radius : 34px;
 	vertical-align : top;
-	margin-top : 1%;
+	margin-top : 0.5%;
 }
 .icon2{
 	
@@ -42,10 +42,10 @@ body{
 
 .div2{
 	background-color : #2A2A2A;
-	margin-top : 1.5%;
+	margin-top : 0.6%;
 	margin-left : 2%;
-	width : 38%;	
-	padding : 0.6%;
+	width : 35%;	
+	padding : 0.8%;
 	height : 30px;
 	border-radius : 25px;
 	vertical-align : top;
@@ -122,7 +122,7 @@ input::placeholder{
 	font-weight : bold;
 	font-size : 18px;
 	padding:0.6%;
-	margin-top : 2.2%;
+	margin-top : 0.8%;
 
 }
 .div4:hover{	
@@ -304,7 +304,7 @@ button:hover{
 	overflow:auto;
 	font-family: "Bebas Neue", sans-serif;
 	overflow : scroll;
-	overflow-x : hidden;
+	scrollbar-width:none;
 	background-color : #121212;
 	margin-top : 0.5%;
 	width : 75%;
@@ -320,7 +320,7 @@ button:hover{
 	background-color :white;
 	color : black;
 	margin-left : 3%;
-	padding : 1%;
+	padding : 0.5%;
 	border-radius: 20px;
 	width : 6%;
 	text-align : center
@@ -331,17 +331,17 @@ button:hover{
 	background-color :#3F3F3F;
 	margin-top :1%;
 	margin-left : 1%;
-	padding : 1%;
+	padding : 0.8%;
 	border-radius: 20px;
 	text-align : center;
-	width : 10%;
+	width : 8%;
 	
 }
 
 .div12{
 	width : 48%;
 	margin-left : 2%;
-	margin-top :5%;
+	margin-top :10%;
 	font-size : 25px;
 	
 }
@@ -352,9 +352,11 @@ button:hover{
 }
 .div13{
 	
-	position : sticky;
-	padding : 2%;
-	width : 100%;
+	position : fixed;
+	top:1;
+	padding : 1%;
+	width : 80%;
+	background-color : black;
 	border-radius : 10px;
 }
 
@@ -424,7 +426,7 @@ button:hover{
 .div16{
 	width : 30%;
 	margin-left : 4%;
-	margin-top :5%;
+	margin-top :10%;
 	vertical-align : top;	
 }
 
@@ -498,7 +500,8 @@ button:hover{
 
 
 .div20{
-	width : 100%;	
+	width : 100%;
+	margin-top : 5%;
 }
 
 .s2{
@@ -522,5 +525,22 @@ button:hover{
 	color : white;
 	font-size : 28px;
 	width : 25%;
+	
+}
+
+
+.div21{
+	width : 100%;	
+	overflow-x : auto;
+	scrollbar-width:none;
+	white-space:nowrap;
+	margin-top : 2%;
+}
+
+.fig3{
+	
+	padding:1%;
+	margin:1%;
+	border-radius : 10px;
 	
 }
