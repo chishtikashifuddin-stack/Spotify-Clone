@@ -486,25 +486,7 @@ button:hover{
 	
 	position : absolute;
 	margin-top: 6%;
-	margin-left : %;
-	font-size : 40px;
-	color :#3BE477;
-	display : none;
-}
-
-.icon13{
-	
-	position : absolute;
-	margin-top: 6%;
-	font-size : 40px;
-	color :#3BE477;
-	display : none;
-}
-
-.icon14{
-	
-	position : absolute;
-	margin-top: 6%;
+	margin-left : 6%;
 	font-size : 40px;
 	color :#3BE477;
 	display : none;
@@ -512,4 +494,33 @@ button:hover{
 
 .fig1:hover .icon11,.fig1:hover .icon12{
 	display : block;
+}
+
+
+.div20{
+	width : 100%;	
+}
+
+.s2{
+	vertical-align : top;
+	margin-top : 1.5%;
+	color : #AEAEAE;
+	font-size : 12px;
+}
+.s3{
+	vertical-align : top;
+	margin-top : 5%;
+	color : #AEAEAE;
+	font-size : 16px;
+	margin-left : 60%;
+}
+.fig2{
+	width : 2%;
+}
+
+.b9{
+	color : white;
+	font-size : 28px;
+	width : 25%;
+	
 }
