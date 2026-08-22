@@ -10,13 +10,10 @@ body{
 }
 
 .v{
-	
-	vertical-align : top;
-	
+	vertical-align : top;	
 }
 
-.icon1{
-	
+.icon1{	
 	color : white;
 	font-size : 50px;
 	margin-left : 2%;	
@@ -34,7 +31,6 @@ body{
 	margin-top : 0.5%;
 }
 .icon2{
-	
 	font-size : 28px;
 }
 
@@ -58,7 +54,6 @@ body{
 }
 
 .icon3{
-	
 	margin-left : 2%;
 	display : inline-block;
 	vertical-align : top;
@@ -67,18 +62,12 @@ body{
 	font-weight : bold;
 	color :#A6B3B3;
 	background-color : #2A2A2A
-	
-	
 }
 .icon3:hover{
-	
 	color : white;
-	
 }
 
-
 input{
-	
 	display:inline-block;
 	padding : 1%;
 	width : 80%;
@@ -96,13 +85,10 @@ input::placeholder{
 	font-size : 16px;	
 }
 .div2:hover{
-	
 	border: white;
-	
 }
 
 .div3{
-	
 	background-color:white;
 	margin-left : 14%;
 	font-family: "Lato", sans-serif;
@@ -116,10 +102,8 @@ input::placeholder{
 }
 
 .div3:hover{
-	
 	padding:0.7%;
 	font-size : 15px;
-	
 }
 
 .div4{
