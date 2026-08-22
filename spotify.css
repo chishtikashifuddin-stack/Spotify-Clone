@@ -9,6 +9,12 @@ body{
 	display : inline-block;
 }
 
+.v{
+	
+	vertical-align : top;
+	
+}
+
 .icon1{
 	
 	color : white;
@@ -544,3 +550,48 @@ button:hover{
 	border-radius : 10px;
 	
 }
+
+
+footer{
+	
+	margin-top : 10%;
+}
+
+.list1{
+	
+	list-style-type : none;
+	margin-left : 2%;
+}
+.list2{
+	
+	margin-top : 12%;
+	color : Grey;
+}
+.list3{
+	font-size : 20px;
+}
+.list4{
+	margin-left : 4%;
+	list-style-type : none;
+}
+.list5{
+	margin-left : 10%;
+	margin-top : 10%;
+	color : Grey;
+}
+
+hr{
+	border : 0.1px solid black;
+	width : 80%;
+	color : white;
+}
+.f{
+	
+	float : right;
+	margin-right : 4%;
+	padding : 1%;
+}
+
+.list5:hover,.list2:hover{
+	color : white;
+}		
